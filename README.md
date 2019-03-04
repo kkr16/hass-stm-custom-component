@@ -1,6 +1,8 @@
 # hass-stm-custom-component
 Custom component for the STM (Société de transport de Montréal) metro lines status monitoring.
 
+Based on [stm-metro-client](https://github.com/kkr16/stm-metro-client).
+
 ## Get the code:
 Clone the repo under a new `./stm/` directory in your Hass `custom_components` directory:
 ```
